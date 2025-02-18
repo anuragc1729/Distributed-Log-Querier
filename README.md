@@ -1,4 +1,4 @@
-**CS425 Project** - **Distributed Log Parser**
+**Distributed Log Parser/Querier**
 
 
 | Anurag Choudhary  |
