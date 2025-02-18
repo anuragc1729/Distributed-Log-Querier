@@ -2,7 +2,7 @@
 
 
 | Anurag Choudhary  |
-| ------ | ------ |
+| ------ |
 
 A simple parser for querying log files Distributed over a set of machines in a network. Written in Golang.
 
